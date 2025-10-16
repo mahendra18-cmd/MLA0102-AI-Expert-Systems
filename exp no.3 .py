@@ -21,3 +21,9 @@ graph = {
 }
 
 bfs(graph, 'A')
+
+
+
+OUTPUT :
+
+A B C D E F 
