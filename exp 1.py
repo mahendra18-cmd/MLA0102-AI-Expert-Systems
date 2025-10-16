@@ -38,3 +38,29 @@ def bfs(start):
 start="123406758"
 path=bfs(start)
 for p in path: show(p)
+
+
+
+
+
+
+
+
+
+
+
+
+OUTPUT :
+
+123
+4_6
+758
+-----
+123
+456
+7_8
+-----
+123
+456
+78_
+-----
