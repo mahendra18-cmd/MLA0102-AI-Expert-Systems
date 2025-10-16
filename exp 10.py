@@ -6,3 +6,9 @@ def decision_tree(X, y):
 X = [[1,0],[0,1],[1,1],[0,0]]
 y = ['Yes','Yes','No','No']
 print("Prediction:", decision_tree(X,y))
+
+
+
+OUTPUT :
+
+Prediction: Yes
