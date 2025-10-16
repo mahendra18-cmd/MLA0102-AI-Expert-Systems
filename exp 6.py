@@ -16,3 +16,12 @@ graph = {
 }
 
 dfs(graph, 'A')
+
+
+
+
+
+
+OUTPUT :
+
+A B D C E 
