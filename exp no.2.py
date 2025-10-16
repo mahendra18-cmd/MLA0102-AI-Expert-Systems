@@ -7,3 +7,18 @@ def hanoi(n, src, aux, dst):
         hanoi(n-1, aux, src, dst)
 
 hanoi(3, 'A', 'B', 'C')
+
+
+
+
+
+
+OUTPUT :
+
+A → C
+A → B
+C → B
+A → C
+B → A
+B → C
+A → C
