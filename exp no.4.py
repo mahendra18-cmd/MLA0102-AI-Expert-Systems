@@ -9,3 +9,14 @@ def monkey_banana():
     print("Goal:", state)
 
 monkey_banana()
+
+
+
+
+OUTPUT :
+
+Start: {'monkey': 'A', 'box': 'B', 'has_banana': False}
+1. Monkey moves box under banana.
+2. Monkey climbs on box.
+3. Monkey grabs banana!
+Goal: {'monkey': 'A', 'box': 'C', 'has_banana': True}
