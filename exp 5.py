@@ -16,3 +16,10 @@ def solve(board, row):
 
 n = 4
 solve([-1]*n, 0)
+
+
+
+OUTPUT :
+
+[1, 3, 0, 2]
+[2, 0, 3, 1]
