@@ -8,3 +8,10 @@ def prove(goal):
     return False
 
 print(prove("bird(duck)"))
+
+
+
+
+OUTPUT :
+
+True
